@@ -49,10 +49,12 @@ const quizData = [
     answer: "Song Đao Bão Táp",
   },
   {
-    question: "Chiêu cuối của tướng Tulen có tên là gì?",
-    options: ["Lôi Điểu", "Lôi Quang", "Lôi Phạt", "Lôi Kích"],
-    answer: "Lôi Điểu",
+    question:
+      "Trang bị 'Kiếm Muramasa' trong Liên Quân Mobile giúp tăng bao nhiêu % xuyên giáp?",
+    options: ["35%", "40%", "45%", "50%"],
+    answer: "40%",
   },
+
   {
     question: "Bản đồ trong chế độ 5v5 của Liên Quân Mobile có tên là gì?",
     options: [
