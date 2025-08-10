@@ -36,7 +36,7 @@ const quizData = [
   {
     question: "Vị tướng nào có hiệu ứng tung chiêu đặc biệt với Volkath",
     options: ["Aleister", "Krixi", "Tel'Annas", "Lauriel"],
-    answer: "===",
+    answer: "Tel'Annas",
   },
   {
     question: "Tướng nào được mệnh danh là 'Thần Rừng' trong Liên Quân Mobile?",
